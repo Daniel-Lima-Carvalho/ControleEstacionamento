@@ -20,12 +20,12 @@ e atualiza a tabela de informações.
 Base de calculo para cobrança
 
 Tempo                   Valor
-Até 30 minutos----------R$ 4,00 
-Até 1 hora--------------R$ 7,00 
-Até 2 horas-------------R$ 12,00 
-Até 4 horas-------------R$ 20,00 
-Até 6 horas-------------R$ 30,00 
-Até 8 horas-------------R$ 40,00 
-Até 24 horas------------R$ 75,00 
-Da 2ª diária em diante--R$ 60,00/dia 
+Até 30 minutos           R$ 4,00 
+Até 1 hora               R$ 7,00 
+Até 2 horas              R$ 12,00 
+Até 4 horas              R$ 20,00 
+Até 6 horas              R$ 30,00 
+Até 8 horas              R$ 40,00 
+Até 24 hora              R$ 75,00 
+Da 2ª diária em diante   R$ 60,00/dia 
 
