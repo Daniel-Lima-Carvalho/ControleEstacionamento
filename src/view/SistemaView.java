@@ -424,17 +424,12 @@ public class SistemaView extends javax.swing.JFrame {
         return btVerificarEntrada;
     }
     
-    
     public void acaoVerificarEntrada(ActionListener acao){
         btVerificarEntrada.addActionListener(acao);
     }
     public void acaoDeslogar(ActionListener acao){
         Deslogar.addActionListener(acao);
     }
-    
-    
-    
-    
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem Deslogar;
